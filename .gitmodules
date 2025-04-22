@@ -1,3 +1,6 @@
 [submodule "demowiz"]
 	path = demowiz
-	url = https://github.com/shahzeelahmed/DemoWiz
+	url = https://github.com/shahzeelahmed/DemoWiz.git
+[submodule "DemoWiz"]
+	path = DemoWiz
+	url = https://github.com/shahzeelahmed/DemoWiz.git
